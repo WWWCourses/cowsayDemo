@@ -1,0 +1,22 @@
+{
+  "name": "my_app",
+  "version": "0.0.1",
+  "description": "demo project",
+  "main": "npmIntro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo",
+    "node",
+    "npm"
+  ],
+  "author": "Iva E. popova",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
